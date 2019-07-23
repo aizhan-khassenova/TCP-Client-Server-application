@@ -1,0 +1,12 @@
+e:\documents\visual studio 2015\Projects\WinFormTcpServer\WinFormTcpServer\bin\Debug\WinFormTcpServer.exe.config
+e:\documents\visual studio 2015\Projects\WinFormTcpServer\WinFormTcpServer\bin\Debug\WinFormTcpServer.exe
+e:\documents\visual studio 2015\Projects\WinFormTcpServer\WinFormTcpServer\bin\Debug\WinFormTcpServer.pdb
+e:\documents\visual studio 2015\Projects\WinFormTcpServer\WinFormTcpServer\obj\Debug\WinFormTcpServer.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\WinFormTcpServer\WinFormTcpServer\obj\Debug\WinFormTcpServer.Form1.resources
+e:\documents\visual studio 2015\Projects\WinFormTcpServer\WinFormTcpServer\obj\Debug\WinFormTcpServer.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\WinFormTcpServer\WinFormTcpServer\obj\Debug\WinFormTcpServer.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\WinFormTcpServer\WinFormTcpServer\obj\Debug\WinFormTcpServer.exe
+e:\documents\visual studio 2015\Projects\WinFormTcpServer\WinFormTcpServer\obj\Debug\WinFormTcpServer.pdb
+E:\Защита сетевых информационных технологий\doc2\WinFormTcpServer\WinFormTcpServer\bin\Debug\WinFormTcpServer.exe.config
+E:\Защита сетевых информационных технологий\doc2\WinFormTcpServer\WinFormTcpServer\obj\Debug\WinFormTcpServer.exe
+E:\Защита сетевых информационных технологий\doc2\WinFormTcpServer\WinFormTcpServer\obj\Debug\WinFormTcpServer.pdb

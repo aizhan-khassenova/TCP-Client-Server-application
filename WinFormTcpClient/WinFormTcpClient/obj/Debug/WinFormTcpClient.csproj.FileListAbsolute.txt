@@ -1,0 +1,12 @@
+e:\documents\visual studio 2015\Projects\WinFormTcpClient\WinFormTcpClient\bin\Debug\WinFormTcpClient.exe.config
+e:\documents\visual studio 2015\Projects\WinFormTcpClient\WinFormTcpClient\bin\Debug\WinFormTcpClient.exe
+e:\documents\visual studio 2015\Projects\WinFormTcpClient\WinFormTcpClient\bin\Debug\WinFormTcpClient.pdb
+e:\documents\visual studio 2015\Projects\WinFormTcpClient\WinFormTcpClient\obj\Debug\WinFormTcpClient.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\WinFormTcpClient\WinFormTcpClient\obj\Debug\WinFormTcpClient.Form1.resources
+e:\documents\visual studio 2015\Projects\WinFormTcpClient\WinFormTcpClient\obj\Debug\WinFormTcpClient.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\WinFormTcpClient\WinFormTcpClient\obj\Debug\WinFormTcpClient.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\WinFormTcpClient\WinFormTcpClient\obj\Debug\WinFormTcpClient.exe
+e:\documents\visual studio 2015\Projects\WinFormTcpClient\WinFormTcpClient\obj\Debug\WinFormTcpClient.pdb
+E:\Защита сетевых информационных технологий\doc2\WinFormTcpClient\WinFormTcpClient\bin\Debug\WinFormTcpClient.exe.config
+E:\Защита сетевых информационных технологий\doc2\WinFormTcpClient\WinFormTcpClient\obj\Debug\WinFormTcpClient.exe
+E:\Защита сетевых информационных технологий\doc2\WinFormTcpClient\WinFormTcpClient\obj\Debug\WinFormTcpClient.pdb
